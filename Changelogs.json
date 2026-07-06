@@ -1,0 +1,23 @@
+{
+  "version": "2.0.6",
+  "channel": "Pro",
+  "developer": "Hào XD",
+  "released": "03/07/2026",
+  "changelog": [
+    {
+      "version": "2.0.6 Pro",
+      "date": "03/07/2026",
+      "changes": [
+        "Thêm Auto-Update",
+        "Làm Lại Giao Diện Mới",
+      ]
+    },
+    {
+      "version": "2.0.5 Pro Beta",
+      "date": "02/07/2026",
+      "changes": [
+        "Thêm Nhà Cung Cấp Inworld",
+      ]
+    }
+  ]
+}
