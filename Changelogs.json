@@ -1,9 +1,16 @@
 {
-  "version": "2.0.6",
-  "channel": "Pro",
+  "version": "2.0.6.1",
+  "channel": "Beta 2",
   "developer": "Hào XD",
-  "released": "03/07/2026",
+  "released": "07/07/2026",
   "changelog": [
+        {
+      "version": "2.0.6.1 Beta 2",
+      "date": "07/07/2026",
+      "changes": [
+        "Thêm Panel Admin",
+      ]
+    },
     {
       "version": "2.0.6 Pro",
       "date": "03/07/2026",
